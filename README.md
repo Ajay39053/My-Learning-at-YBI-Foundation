@@ -1,2 +1,3 @@
 # My-Learning-at-YBI-Foundation
-Artificial Intelligence &amp; Machine Learning
+I am learning at YBI Foundation
+Full stack in AIML
